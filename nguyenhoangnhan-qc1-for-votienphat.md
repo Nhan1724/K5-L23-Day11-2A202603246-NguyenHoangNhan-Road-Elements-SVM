@@ -1,6 +1,6 @@
 # Phiếu QC 1 — Road v1.0
 
-Lô được kiểm (học viên): Võ Tiến Phát (`votienphat`)        Người kiểm (học viên): Nguyễn Hoàng Nhân (`nguyenhoangnhan`)  
+Lô được kiểm (học viên): Võ Tiến Phát (`2A202603130`)        Người kiểm (học viên): Nguyễn Hoàng Nhân (`2A202603246`)  
 Ngày: 2026-11-21                          Phiên bản guideline: Road v1.0  
 File được kiểm (tên + `revision` trong manifest): `votienphat-front.zip`, `votienphat-fisheye.zip` (manifest `revision 1`)  
 Số ảnh kiểm: 6 (+ 0 ảnh thêm, ghi riêng)   Số nhãn đã kiểm (shape + tag): 56  
